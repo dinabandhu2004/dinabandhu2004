@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Airtificial Intalligence
 - 💞️ I’m looking to collaborate on Web Development, AI
 - 📫 How to reach me gmail: dinabandhu2004barai@gmail.coom
-- 😄 Pronouns: ...
+- 😄 Pronouns:he/him
 - ⚡ Fun fact: ...
 
 <!---
